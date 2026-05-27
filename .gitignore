@@ -1,2 +1,9 @@
 .vscode
 .idea
+
+# Go build/test artifacts
+/golearn
+/mdns-map
+*.test
+*.out
+coverage.*
